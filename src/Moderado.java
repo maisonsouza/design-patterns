@@ -8,7 +8,7 @@ public class Moderado implements Investimento {
     }
 
     @Override
-    public double calculaInvestimento(Conta conta) {
+    public double calcula(Conta conta) {
         if(random.nextInt(2) == 0)
             return conta.getSaldo() * 0.025;
         else

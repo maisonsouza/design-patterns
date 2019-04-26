@@ -1,4 +1,4 @@
 public interface Investimento {
 
-    public double calculaInvestimento(Conta conta);
+    public double calcula(Conta conta);
 }
