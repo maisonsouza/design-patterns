@@ -141,6 +141,30 @@ Template Method permite que as subclasses redefinam certos passos de um algoritm
 2 Escopo
 > Especifica se o padrão se aplica primariamente a classes ou a objetos.
 
+### Como selecionar um padrão de projeto
+* Considere como padrões de projeto solucionam problemas de projeto.
+* Examine a seção de intenções.
+* Estude como os padrões se interrelacionam.
+* Estude padrões de finalidades semelhantes.
+* Examine uma causa de reformulação de projeto.
+* Considere o que deveria ser variável no seu projeto.
+
+### Como usar um padrão.
++ Leia o padrão de projeto por inteiro uma vez, para ter uma visão geral.
++ Preste atenção as seções Aplicabilidade e consequências.
+* Estude as seções Estrutura, Participantes e Colaborações.
+* Exemplo de código.
+* Escolher nomes para os participantes do padrão.
+* Defina as classes.
+* Defina nomes específicos da aplicação para as operaçãoes no padrão.
+* Implemente asoperações para suportar as responsabilidades e colaborações presentes.
+
+
+### Como não usar padrões de projeto
+* Não usar indiscriminadamente, complicando o projeto e prejudicando o desempenho.
+* Sem avaliar os custos e benefícios de um padrão. 
+
+
 #### Características de padrões
 * Se relacionam entre si e se distinguem um dos outros.
 * Não existem padrões que lidem com concorrência, construir interfaces ou banco de dados.
