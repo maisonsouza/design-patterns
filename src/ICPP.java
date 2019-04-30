@@ -1,8 +1,16 @@
 public class ICPP extends TemplateDeImpostoCondicional {
 
+    public ICPP(Imposto outroImposto) {
+      this.outroImposto = outroImposto;
+    }
+
+    public ICPP() {
+
+    }
+
     @Override
     protected boolean deveUsarTaxacaoMaxima(Orcamento orcamento) {
-        return orcamento.getValor()>500;
+        return orcamento.getValor()>500 + calculoDoOutroImposto(orcamento);
     }
 
     @Override

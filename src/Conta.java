@@ -1,29 +1,33 @@
+import java.util.Calendar;
+
 class Conta {
+    private String titular;
     private double saldo;
-    private String nome;
-    private int numero;
-    private int agencia;
+    private String numero;
+    private String agencia;
+    private Calendar dataAbertura;
 
-
-    public void deposita(double valor, String titular) {
+    public void deposita(double valor) {
         this.saldo += valor;
-        this.nome = titular;
     }
 
     public double getSaldo() {
         return this.saldo;
     }
 
-    public String getNome() {
-        return nome;
+    public String getTitular() {
+        return titular;
     }
 
-
-    public int getNumero() {
+    public String getNumero() {
         return numero;
     }
 
-    public int getAgencia() {
-        return this.agencia;
+    public String getAgencia() {
+        return agencia;
+    }
+
+    public Calendar getDataAbertura() {
+        return dataAbertura;
     }
 }

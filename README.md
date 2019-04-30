@@ -102,7 +102,7 @@
 * Observer
 * State
 * Strategy
-* Template Method
+* Template Method - Comportamental de classes.
 > Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses.O 
 Template Method permite que as subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
 
@@ -140,6 +140,12 @@ Template Method permite que as subclasses redefinam certos passos de um algoritm
 
 2 Escopo
 > Especifica se o padrão se aplica primariamente a classes ou a objetos.
+
+### O que são padrões de criação.
+> Os padrões de criação abstraem o processo de instanciação.
+ * Padrões de criação de classe
+ > Um padrão de criação de classe usa a herança para variar a classe que é instanciada, enquanto que um padrão de criação de objeto delegará a instanciação para outro objeto.
+ 
 
 ### Como selecionar um padrão de projeto
 * Considere como padrões de projeto solucionam problemas de projeto.

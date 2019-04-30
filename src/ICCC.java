@@ -1,4 +1,4 @@
-public class ICCC implements Imposto {
+public class ICCC extends Imposto {
     @Override
     public double calcula(Orcamento orcamento) {
         if(orcamento.getValor() <1000){
