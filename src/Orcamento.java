@@ -4,12 +4,14 @@ import java.util.List;
 
 public class Orcamento {
 
-    private final double valor;
+    protected double valor;
     private final List<Item> itens;
+    protected EstadoDeUmOrcamento estadoatual;
 
     public Orcamento(double valor){
         this.valor = valor;
         itens = new ArrayList<Item>();
+        estadoatual = new EmAprovacao();
     }
 
     public double getValor() {
@@ -29,5 +31,21 @@ public class Orcamento {
             if (item.getNome().equals(nomeDoItem)) return true;
         }
         return false;
+    }
+
+    public void aplicaDescontoExtra() {
+        estadoatual.aplicaDescontoExtra(this);
+    }
+
+    public void aprova(){
+        estadoatual.aprova(this);
+    }
+
+    public void reprova(){
+        estadoatual.reprova(this);
+    }
+
+    public void finaliza(){
+        estadoatual.finaliza(this);
     }
 }

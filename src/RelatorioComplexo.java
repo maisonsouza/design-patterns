@@ -15,7 +15,7 @@ class RelatorioComplexo extends Relatorio {
 
     protected void corpo(List<Conta> contas) {
         for(Conta conta : contas) {
-            System.out.println( conta.getNome() + " - " + conta.getNumero() + " - " + conta.getAgencia() + " - " + conta.getSaldo() );
+            System.out.println( conta.getTitular() + " - " + conta.getNumero() + " - " + conta.getAgencia() + " - " + conta.getSaldo() );
         }
     }
 }

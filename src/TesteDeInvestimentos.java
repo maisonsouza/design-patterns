@@ -4,7 +4,7 @@ public class TesteDeInvestimentos {
         Arrojado investimentoArrojado= new Arrojado();
         Conservador investimentoConservador = new Conservador();
         Conta conta1 = new Conta();
-        conta1.deposita(100,"Maison");
+        conta1.deposita(100);
         RealizadorDeInvestimentos realizador = new RealizadorDeInvestimentos();
         realizador.realizaInvestimento(conta1,investimentoModerado);
         realizador.realizaInvestimento(conta1,investimentoConservador);
