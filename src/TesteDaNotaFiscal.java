@@ -7,7 +7,7 @@ public class TesteDaNotaFiscal {
        .comItem(new ItemDaNota("item1",200))
        .comItem(new ItemDaNota("item2",300))
        .comItem(new ItemDaNota("item3",400))
-      .comObservacoes("Observações")
+       .comObservacoes("Observações")
        .naDataAtual();
 
        NotaFiscal nf = builder.constroi();
