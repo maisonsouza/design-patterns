@@ -174,5 +174,18 @@ Template Method permite que as subclasses redefinam certos passos de um algoritm
 #### Características de padrões
 * Se relacionam entre si e se distinguem um dos outros.
 * Não existem padrões que lidem com concorrência, construir interfaces ou banco de dados.
+
+##### Meus padrões de Projeto
+* Composite
+ * Nota: 0.5
+* Interpreter
+ * Nota:0.5
+* Template Method
+ * Nota: 0.7
+* Memento
+ * Nota:0.7
+* Singleton
+* Command
+* Observer
  
     
