@@ -177,13 +177,13 @@ Template Method permite que as subclasses redefinam certos passos de um algoritm
 
 ##### Meus padrões de Projeto
 * Composite
- * Nota: 0.5
+  * Nota: 0.5
 * Interpreter
- * Nota:0.5
+  * Nota:0.5
 * Template Method
- * Nota: 0.7
+  * Nota: 0.7
 * Memento
- * Nota:0.7
+  * Nota:0.7
 * Singleton
 * Command
 * Observer
