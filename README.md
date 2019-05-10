@@ -82,7 +82,7 @@
 * Builder
 * Factory Method
 * Prototype
-* Singleton
+* [Singleton](Singleton)
 
 ### Padrões Estruturais
 * Adapter
@@ -187,5 +187,10 @@ Template Method permite que as subclasses redefinam certos passos de um algoritm
 * Singleton
 * Command
 * Observer
+
+###### Singleton
+* Padrão de Criação - Garante que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
+** É importante para algumas classes ter uma, e apenas uma, instância.
+
  
     
