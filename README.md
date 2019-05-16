@@ -85,7 +85,7 @@
 * Builder
 * Factory Method
 * Prototype
-* Singleton
+* [Singleton](Singleton)
 
 ### Padrões Estruturais
 * Adapter
@@ -179,5 +179,23 @@ Template Method permite que as subclasses redefinam certos passos de um algoritm
 #### Características de padrões
 * Se relacionam entre si e se distinguem um dos outros.
 * Não existem padrões que lidem com concorrência, construir interfaces ou banco de dados.
+
+##### Meus padrões de Projeto
+* Composite
+  * Nota: 0.5
+* Interpreter
+  * Nota:0.5
+* Template Method
+  * Nota: 0.7
+* Memento
+  * Nota:0.7
+* Singleton
+* Command
+* Observer
+
+###### Singleton
+* Padrão de Criação - Garante que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
+** É importante para algumas classes ter uma, e apenas uma, instância.
+
  
     
