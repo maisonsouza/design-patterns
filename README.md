@@ -22,15 +22,13 @@
 * Visa dar flexibilidade e reutilização aos projetos de sistemas.
 * Ajuda a utilizar a tecnologia Orientada a Objetos de maneira produtiva e escalável.
 * Registra experiência em projeto de software.
-* Utiliza técnicas testadas e aprovadas
+* Utiliza **técnicas** testadas e aprovadas
 
 ### O que não são padrões de projetos.
 * Não são projetos.
 * Não são estruturas de dados complexas
-* Projetos de domínio especifico par auma aplicação ou sobsistema.
+* Projetos de domínio especifico para uma aplicação ou subsistema.
 * Não são frameworks.
-
-
 
 ### Profissionais envolvidos com Padrões de Projeto.
 * Projetista de software.
@@ -52,10 +50,15 @@
 * Depêndencia de algoritmo.
 * Dependência de implementação
 * Dependência de plataforma.
-* Inflexível.
-* Incapacidade alterar classes de modo conveniente.
+* Design Inflexível.
+* Classes Gigantescas
+* Incapacidade de alterar classes de modo conveniente.
 
-### Papel em classes de software
+### Soluções comuns abordadas por design patterns
+* Alta Coesão
+* Baixo acoplamento
+
+### Papel dos padrões em classes de software
 * Toolkits
 * Frameworks
 * Programas de aplicação.
@@ -72,9 +75,9 @@
 
 ### Como estão organizados e divididos os padrões de projeto
 > Estão organizados em um catálogo e divididos em 3 categorias:
-* Padrões de criação
-* Padrões Estruturais.
-* Padrões compotamentais.
+* Padrões de criação ou criacionais
+* Padrões de Estrutura ou Estruturais.
+* Padrões de comportamento ou comportamentais.
 
 ### Padrões de Criação
 * Abstract Factory
@@ -102,6 +105,8 @@
 * Observer
 * State
 * Strategy
+> Define uma família de algoritmos, encapsula cada uma delas e as torna intercambiáveis entre si. O padrão de projeto 
+Strategy permite que o algoritmo varie indepedentente dos clientes que o utilizem.
 * Template Method - Comportamental de classes.
 > Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses.O 
 Template Method permite que as subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
