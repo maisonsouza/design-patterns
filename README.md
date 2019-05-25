@@ -85,7 +85,10 @@
 ### Padrões de Criação
 * Abstract Factory
 > Fornece uma interface para criação de família de objetos relacionados ou dependentes sem especificar suas classes concretas.
+
 * Builder
+> Separar a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações.
+
 * Factory Method
 * Prototype
 * [Singleton](Singleton)
