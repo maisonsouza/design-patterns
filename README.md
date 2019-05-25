@@ -113,6 +113,7 @@
 * Interpreter
 * Iterator
 * Memento
+> Sem violar o encapsulamento, capturar e externalizar um estado interno de um objeto, de maneira que o objeto possa ser restaurado para esse estado mais tarde.
 
 * Observer
 > Definir uma dependência um para muitos entre objetos, de maneira que quando um objeto muda de estado todos os seus dependentes são notificados e atualziados automaticamente.
