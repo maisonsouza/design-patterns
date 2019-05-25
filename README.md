@@ -110,7 +110,9 @@
 * Interpreter
 * Iterator
 * Memento
+
 * Observer
+> Definir uma dependência um para muitos entre objetos, de maneira que quando um objeto muda de estado todos os seus dependentes são notificados e atualziados automaticamente.
 
 * State
 > Permite a um objeto alterar o seu comportamento quando o seu estado interno muda. O Objeto parecerá ter mudado sua classe.
