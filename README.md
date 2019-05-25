@@ -67,7 +67,10 @@
 * Abstract Factory
 * Adapter
 * Composite
+
 * Decorator
+> Dinamicamente, agregar responsabilidades adicionais a um objeto. Os decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
+
 * Factory Method
 * Observer
 * Strategy
