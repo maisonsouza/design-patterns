@@ -107,9 +107,10 @@
 * Strategy
 > Define uma família de algoritmos, encapsula cada uma delas e as torna intercambiáveis entre si. O padrão de projeto 
 Strategy permite que o algoritmo varie indepedentente dos clientes que o utilizem.
+
 * Template Method - Comportamental de classes.
-> Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses.O 
-Template Method permite que as subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
+> Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses. O 
+Template Method permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.
 
 > Tem relação com o Strategy porém define os passos so algoritmo.
 
