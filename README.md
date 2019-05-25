@@ -108,7 +108,9 @@
 * Iterator
 * Memento
 * Observer
+
 * State
+> Permite a um objeto alterar o seu comportamento quando o seu estado interno muda. O Objeto parecerá ter mudado sua classe.
 
 * Strategy - Comportamental de objetos
 > Definir uma família de algoritmos, encapsular cada uma delas e as torna-las intercambiáveis. O padrão de projeto 
