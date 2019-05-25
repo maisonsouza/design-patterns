@@ -99,7 +99,10 @@
 * Composite
 * Decorator
 * Façade
+
 * FlyWeight
+> Usar compartilhamento para suportar eficienteme grande quantidades de objetos de granulidade fina.
+
 * Proxy
 
 ### Padrões Comportamentais
