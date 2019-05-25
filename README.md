@@ -101,7 +101,7 @@
 * Façade
 
 * FlyWeight
-> Usar compartilhamento para suportar eficienteme grande quantidades de objetos de granulidade fina.
+> Usar compartilhamento para suportar eficientemente grande quantidades de objetos de granulidade fina.
 
 * Proxy
 
