@@ -106,8 +106,9 @@
 * Memento
 * Observer
 * State
-* Strategy
-> Define uma família de algoritmos, encapsula cada uma delas e as torna intercambiáveis entre si. O padrão de projeto 
+
+* Strategy - Comportamental de objetos
+> Definir uma família de algoritmos, encapsular cada uma delas e as torna-las intercambiáveis. O padrão de projeto 
 Strategy permite que o algoritmo varie indepedentente dos clientes que o utilizem.
 
 * Template Method - Comportamental de classes.
