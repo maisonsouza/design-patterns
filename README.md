@@ -102,6 +102,11 @@ Definir o esqueleto de um algoritmo em uma operação, postergando alguns passos
 * Bridge 
 * Composite
 * Decorator
+
+``
+Dinamicamente, agregar responsabilidades adicionais a um objeto. Os Decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
+``
+
 * Façade
 
 * FlyWeight
