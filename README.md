@@ -1,10 +1,12 @@
 # Padrões de Projeto
 
 ## Bibliografia
-* Padrões de Projeto Soluções Reutilizáveis de Software orientado a objetos.
-  Erick Gamma, Richard Helm, John Vlissides e Ralph Johnson
-* Catalogação: Engenharia de Sistemas -> Programação de Computadores
-* Códigos de exemplo em C++ E Smalltalk
+```
+Padrões de Projeto Soluções Reutilizáveis de Software orientado a objetos.
+Erick Gamma, Richard Helm, John Vlissides e Ralph Johnson.
+Catalogação: Engenharia de Sistemas -> Programação de Computadores.
+Códigos de exemplo em C++ E Smalltalk.
+```
 
 ## Pré- Requisitos
 * Sólidos conhecimentos na Tecnologia Orientada a Objetos (Projeto e Linguagens).
