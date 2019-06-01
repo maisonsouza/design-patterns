@@ -146,6 +146,9 @@ Template Method permite que subclasses redefinam certos passos de um algoritmo s
 > Tem relação com o Strategy porém define os passos so algoritmo.
 
 * Visitor
+```
+Representar uma operação a ser executada nos elementos de uma estrutura de objetos. Visitor permite definir uma nova operação sem mudar as classes dos elementos sobre os quais opera.
+```
 
 ### Elementos essenciais de um padrão
 * Nome do padrão
