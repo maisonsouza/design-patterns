@@ -127,7 +127,10 @@ Dinamicamente, agregar responsabilidades adicionais a um objeto. Os Decorators f
 * Chain of responsability - Comportamental de Objetos.
 > Evitar o acoplamento do remetente de uma solicitação ao seu receptor, ao dar a mais de um objeto a oportunidade de tratar a solicitação. Encadear os objetos receptores passando a solicitação ao longo da cadeia até que um objeto a trate.
 
-* Command
+> Command
+```
+Encapsular uma solicitação como um objeto, desta forma permitindo parametrizar clientes com diferentes solicitações, enfileirar ou fazer o registro (log) de solicitações e suportar operações que podem ser desfeitas.
+```
 
 * Interpreter
 > Dada uma linguagem, definir uma representação para a sua gramática juntamente com um interpretador que usa a representação para interpretar sentenças dessa linguagem.
