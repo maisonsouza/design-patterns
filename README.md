@@ -101,7 +101,10 @@ Definir o esqueleto de um algoritmo em uma operação, postergando alguns passos
 
 ### Padrões Estruturais
 * Adapter
-* Bridge 
+> Bridge 
+```
+Desacoplar uma abstração da sua implementção, de modo que as duas possam variar independentemente.
+```
 * Composite
 * Decorator
 
