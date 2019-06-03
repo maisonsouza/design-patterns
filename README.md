@@ -67,7 +67,11 @@ Códigos de exemplo em C++ E Smalltalk.
 
 ### Padrões considerados mais simples.
 * Abstract Factory
-* Adapter
+> Adapter
+```
+Converter a interface de uma classe em outra interface, esperada pelos clientes. O Adapter permite que classes com interfaces imcompatíveis trabalahem em conjunto - o que, de outra forma, seria impossível.
+```
+
 * Composite
 
 * Decorator
