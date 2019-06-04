@@ -9,9 +9,10 @@ Códigos de exemplo em C++ E Smalltalk.
 ```
 
 ## Pré- Requisitos
+```
 * Sólidos conhecimentos na Tecnologia Orientada a Objetos (Projeto e Linguagens).
 * UML (Diagrama de classe)
-
+```
 ## O que é um padrão de projeto.
 
 ### Como surgiu padrões de projetos ?
@@ -241,6 +242,7 @@ Representar uma operação a ser executada nos elementos de uma estrutura de obj
 * Singleton
 * Command
 * Observer
+* Strategy - Nota: 2.0
 
 ###### Singleton
 * Padrão de Criação - Garante que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
