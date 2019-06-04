@@ -117,7 +117,10 @@ Desacoplar uma abstração da sua implementção, de modo que as duas possam var
 Dinamicamente, agregar responsabilidades adicionais a um objeto. Os Decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
 ```
 
-* Façade
+> Façade - *Estrutural de Objetos*
+```
+Fornecer uma interface unificada para um conjunto de interfaces em um subsistema. Façade define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
+```
 
 * FlyWeight
 > Usar compartilhamento para suportar eficientemente grande quantidades de objetos de granulidade fina.
