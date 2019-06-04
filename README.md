@@ -112,9 +112,9 @@ Desacoplar uma abstração da sua implementção, de modo que as duas possam var
 * Composite
 * Decorator
 
-``
+```
 Dinamicamente, agregar responsabilidades adicionais a um objeto. Os Decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
-``
+```
 
 * Façade
 
