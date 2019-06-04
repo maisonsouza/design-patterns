@@ -82,9 +82,9 @@ Converter a interface de uma classe em outra interface, esperada pelos clientes.
 * Strategy
 * Template Method
 
- ` 
+``` 
 Definir o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. Template Method permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.  
-`
+```
 
 ### Como estão organizados e divididos os padrões de projeto
 > Estão organizados em um catálogo e divididos em 3 categorias:
