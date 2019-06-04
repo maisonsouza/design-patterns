@@ -243,6 +243,7 @@ Representar uma operação a ser executada nos elementos de uma estrutura de obj
 * Command
 * Observer
 * Strategy - Nota: 2.0
+* Chain of Responsibility - Nota: 1.5
 
 ###### Singleton
 * Padrão de Criação - Garante que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
