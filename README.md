@@ -75,8 +75,9 @@ Converter a interface de uma classe em outra interface, esperada pelos clientes.
 * Composite
 
 * Decorator
-> Dinamicamente, agregar responsabilidades adicionais a um objeto. Os decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
-
+```
+Dinamicamente, agregar responsabilidades adicionais a um objeto. Os decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
+```
 * Factory Method
 * Observer
 * Strategy
