@@ -65,8 +65,7 @@ que você pode personalizar para resolver um problema de design específico em s
 ### Soluções comuns abordadas por design patterns
 * Alta Coesão
 * Baixo acoplamento
-
-### Papel dos padrões em classes de software
+D## Papel dos padrões em classes de software
 * Toolkits
 * Frameworks
 * Programas de aplicação.
@@ -75,7 +74,7 @@ que você pode personalizar para resolver um problema de design específico em s
 * Abstract Factory
 > Adapter
 ```
-Converter a interface de uma classe em outra interface, esperada pelos clientes. O Adapter permite que classes com interfaces imcompatíveis trabalahem em conjunto - o que, de outra forma, seria impossível.
+Converter a interface de uma classe em outra interface, esperada pelos clientes. O Adapter permite que classes com interfaces imcompatíveis trabalhem em conjunto - o que, de outra forma, seria impossível.
 ```
 
 * Composite
