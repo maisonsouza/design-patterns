@@ -87,8 +87,7 @@ Dinamicamente, agregar responsabilidades adicionais a um objeto. Os decorators f
 * Factory Method
 * Observer
 * Strategy
-* Template Method - Comportamental de Classes
-
+> Template Method - Comportamental de Classes
 ``` 
 Definir o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. Template Method permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.  
 ```
@@ -159,9 +158,11 @@ Encapsular uma solicitação como um objeto, desta forma permitindo parametrizar
 > Definir uma família de algoritmos, encapsular cada uma delas e as torna-las intercambiáveis. O padrão de projeto 
 Strategy permite que o algoritmo varie indepedentente dos clientes que o utilizem.
 
-* Template Method - Comportamental de classes.
-> Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses. O 
+> Template Method - Comportamental de classes.
+```
+Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses. O 
 Template Method permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.
+```
 
 > Tem relação com o Strategy porém define os passos so algoritmo.
 
