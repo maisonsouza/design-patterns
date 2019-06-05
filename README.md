@@ -246,7 +246,7 @@ Representar uma operação a ser executada nos elementos de uma estrutura de obj
   * Nota:0.7
 * Singleton
 * Command
-* Observer
+* Observer - Nota: 1.5
 * Strategy - Nota: 2.0
 * Chain of Responsibility - Nota: 1.5
 
