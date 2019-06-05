@@ -13,7 +13,12 @@ Códigos de exemplo em C++ E Smalltalk.
 * Sólidos conhecimentos na Tecnologia Orientada a Objetos (Projeto e Linguagens).
 * UML (Diagrama de classe)
 ```
+
 ## O que é um padrão de projeto.
+```
+Padrões de design são soluções típicas para problemas comuns no design de software. Cada padrão é como um modelo
+que você pode personalizar para resolver um problema de design específico em seu código.
+```
 
 ### Como surgiu padrões de projetos ?
 > Surgiu com Christopher Alexander para padrões em projetos de Edificações.
@@ -82,7 +87,7 @@ Dinamicamente, agregar responsabilidades adicionais a um objeto. Os decorators f
 * Factory Method
 * Observer
 * Strategy
-* Template Method
+* Template Method - Comportamental de Classes
 
 ``` 
 Definir o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. Template Method permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.  
