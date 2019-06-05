@@ -14,23 +14,18 @@ Códigos de exemplo em C++ E Smalltalk.
 * UML (Diagrama de classe)
 ```
 
-## O que é um padrão de projeto.
-```
-Padrões de design são soluções típicas para problemas comuns no design de software. Cada padrão é como um modelo
-que você pode personalizar para resolver um problema de design específico em seu código.
-```
-
-### Como surgiu padrões de projetos ?
-> Surgiu com Christopher Alexander para padrões em projetos de Edificações.
-
 ### O que são padrões de projeto
+> Padrões de design são soluções típicas para problemas comuns no design de software. Cada padrão é como um modelo
+que você pode personalizar para resolver um problema de design específico em seu código.
 > São soluções simples que foram desenvolvidas e aperfeiçoadas para problemas específicos no projeto de software orientado a objetos
-
 > São descrições de objetos e classes comunicantes que precisam ser configuradas para resolver um problema geral de projeto num contexto específico
 * Visa dar flexibilidade e reutilização aos projetos de sistemas.
 * Ajuda a utilizar a tecnologia Orientada a Objetos de maneira produtiva e escalável.
 * Registra experiência em projeto de software.
 * Utiliza **técnicas** testadas e aprovadas
+
+### Como surgiram os padrões de projetos ?
+> Surgiu com Christopher Alexander para padrões em projetos de Edificações.
 
 ### O que não são padrões de projetos.
 * Não são projetos.
@@ -65,7 +60,8 @@ que você pode personalizar para resolver um problema de design específico em s
 ### Soluções comuns abordadas por design patterns
 * Alta Coesão
 * Baixo acoplamento
-D## Papel dos padrões em classes de software
+
+### Papel dos padrões em classes de software
 * Toolkits
 * Frameworks
 * Programas de aplicação.
@@ -106,8 +102,10 @@ Definir o esqueleto de um algoritmo em uma operação, postergando alguns passos
 
 * Factory Method
 * Prototype
-* [Singleton](Singleton)
-
+> Singleton - Padrão de Criação 
+```
+Garante que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.É importante para algumas classes ter uma, e apenas uma, instância.
+```
 ### Padrões Estruturais
 * Adapter
 > Bridge 
@@ -231,7 +229,7 @@ Representar uma operação a ser executada nos elementos de uma estrutura de obj
 * Sem avaliar os custos e benefícios de um padrão. 
 
 
-#### Características de padrões
+### Características de padrões
 * Se relacionam entre si e se distinguem um dos outros.
 * Não existem padrões que lidem com concorrência, construir interfaces ou banco de dados.
 
@@ -249,10 +247,3 @@ Representar uma operação a ser executada nos elementos de uma estrutura de obj
 * Observer - Nota: 1.5
 * Strategy - Nota: 2.0
 * Chain of Responsibility - Nota: 1.5
-
-###### Singleton
-* Padrão de Criação - Garante que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
-** É importante para algumas classes ter uma, e apenas uma, instância.
-
- 
-    
