@@ -14,6 +14,10 @@ Códigos de exemplo em C++ E Smalltalk.
 * Prática em Linguagem Orientada a Objetos(Java, C#)
 * UML (Diagrama de classe)
 ```
+## Ferrramentas recomendadas
+```
+BlueJ - Para demonstrar os padrões de projeto na prática.
+```
 
 ### O que são padrões de projeto
 > Padrões de design são soluções típicas para problemas comuns no design de software. Cada padrão é como um modelo
