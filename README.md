@@ -11,6 +11,7 @@ Códigos de exemplo em C++ E Smalltalk.
 ## Pré- Requisitos
 ```
 * Sólidos conhecimentos na Tecnologia Orientada a Objetos (Projeto e Linguagens).
+* Prática em Linguagem Orientada a Objetos(Java, C#)
 * UML (Diagrama de classe)
 ```
 
@@ -59,7 +60,11 @@ que você pode personalizar para resolver um problema de design específico em s
 
 ### Soluções comuns abordadas por design patterns
 * Alta Coesão
-* Baixo acoplamento
+```
+Coesão: única responsabilidade, código simples, fácil manutenção, fácil reuso, fácil de testar.
+```
+* Baixo acoplamento.
+* Programar para interfaces.
 
 ### Papel dos padrões em classes de software
 * Toolkits
