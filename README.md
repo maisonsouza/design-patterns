@@ -242,13 +242,18 @@ Representar uma operação a ser executada nos elementos de uma estrutura de obj
 * Composite
   * Nota: 0.5
 * Interpreter
-  * Nota:0.5
+  * Nota: 0.5
 * Template Method
-  * Nota: 0.7
+  * Nota: 1.5
 * Memento
-  * Nota:0.7
+  * Nota: 0.7
 * Singleton
+  * Nota: 1.5
 * Command
-* Observer - Nota: 1.5
-* Strategy - Nota: 2.0
-* Chain of Responsibility - Nota: 1.5
+  * Nota: 1.0
+* Observer 
+  * Nota: 1.5
+* Strategy 
+  * Nota: 2.0
+* Chain of Responsibility
+  * Nota: 1.5
