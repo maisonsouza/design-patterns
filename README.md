@@ -20,7 +20,7 @@ BlueJ - Para demonstrar os padrões de projeto na prática.
 ```
 
 ### O que são padrões de projeto
-> Padrões de design são soluções típicas para problemas comuns no design de software. Cada padrão é como um modelo
+> :gem: Padrões de design são soluções típicas para problemas comuns no design de software. Cada padrão é como um modelo
 que você pode personalizar para resolver um problema de design específico em seu código.
 > São soluções simples que foram desenvolvidas e aperfeiçoadas para problemas específicos no projeto de software orientado a objetos
 > São descrições de objetos e classes comunicantes que precisam ser configuradas para resolver um problema geral de projeto num contexto específico
